@@ -20,8 +20,8 @@ Hands-on cybersecurity learner
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CSKrishna2004.png)](https://tryhackme.com/p/CSKrishna2004)
 
-![TryHackMe Rank](https://img.shields.io/badge/dynamic/json?label=TryHackMe%20Rank&query=rank&url=https://tryhackme.com/api/v2/public-profile/CSKrishna2004&color=red)
-![Rooms Completed](https://img.shields.io/badge/dynamic/json?label=Rooms%20Completed&query=completedRooms&url=https://tryhackme.com/api/v2/public-profile/CSKrishna2004&color=blue)
+![TryHackMe Rank](https://img.shields.io/badge/dynamic/json?label=TryHackMe%20Rank&query=%24.rank&url=https://tryhackme.com/api/v2/public-profile/CSKrishna2004&cacheSeconds=3600)
+![Rooms Completed](https://img.shields.io/badge/dynamic/json?label=Rooms%20Completed&query=%24.completedRooms&url=https://tryhackme.com/api/v2/public-profile/CSKrishna2004&cacheSeconds=3600)
 
 ## Current Focus
 - TryHackMe labs and learning paths
