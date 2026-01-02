@@ -1,11 +1,47 @@
-## Krishna Sachdeva
-Digital Forensics & Information Security student  
-Hands-on cybersecurity learner
+<h1 align="center">Krishna Sachdeva</h1>
+<p align="center">
+  Digital Forensics & Information Security student<br>
+  Hands-on cybersecurity learner
+</p>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CSKrishna2004.png?v=2)](https://tryhackme.com/p/CSKrishna2004)
+<p align="center">
+  <a href="https://github.com/CS-Krishna">GitHub</a> •
+  <a href="https://tryhackme.com/p/CSKrishna2004">TryHackMe</a> •
+  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+</p>
 
-## Current Focus
-- TryHackMe labs and learning paths
-- Network security and web exploitation fundamentals
-- Forensics and security tooling
+<p align="center">
+  <a href="https://tryhackme.com/p/CSKrishna2004">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CSKrishna2004.png" alt="TryHackMe Badge">
+  </a>
+</p>
 
+---
+
+### About
+I am a Digital Forensics & Information Security student focused on hands-on learning through labs, tooling, and structured notes.  
+My work emphasises strong fundamentals in networking, web security, and forensic analysis.
+
+---
+
+### Current Focus
+- TryHackMe labs and learning paths  
+- Network security and web exploitation fundamentals  
+- Forensics and security tooling  
+
+---
+
+### Selected Work
+- **TryHackMe Notes** – structured notes and summaries from completed rooms and modules  
+- **Security & Programming Projects** – small projects exploring Python, web concepts, and tooling  
+
+---
+
+### Interests
+- Cybersecurity fundamentals  
+- Blue team and defensive security  
+- Digital forensics and incident analysis  
+
+<p align="center">
+  <sub>Learning by doing. Documenting as I go.</sub>
+</p>
