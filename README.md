@@ -1,8 +1,7 @@
-<h1 align="center">Krishna Sachdeva</h1>
-<p align="center">
+<h4 align="center">
   Digital Forensics & Information Security student<br>
   Hands-on cybersecurity learner
-</p>
+</h4>
 
 <p align="center">
   <a href="https://github.com/CS-Krishna">GitHub</a> •
