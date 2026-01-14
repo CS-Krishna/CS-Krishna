@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/CS-Krishna">GitHub</a> •
   <a href="https://tryhackme.com/p/CSKrishna2004">TryHackMe</a> •
-  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+  <a href=https://www.linkedin.com/in/krishna-sachdeva-">LinkedIn</a>
 </p>
 
 <p align="center">
